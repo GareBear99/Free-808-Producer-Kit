@@ -7,7 +7,7 @@
 ## 📦 What's Inside
 
 ```
-AAAAA_808_Producer_Kit/
+AAA_808_Producer_Kit/
 ├── Classic/          # 12 samples  — round warm sub, smooth pitch drop
 ├── Punchy/           # 12 samples  — fast transient + noise click attack
 ├── Long/             # 12 samples  — extended sustain, trap-style tail
