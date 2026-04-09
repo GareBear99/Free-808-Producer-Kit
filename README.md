@@ -7,6 +7,18 @@
 
 **94 hand-crafted 808 bass samples** — tuned to every chromatic key, built for trap, hip-hop, drill, and beyond.
 
+`free-808` `bass-samples` `trap` `hip-hop` `drill` `phonk` `sample-pack` `music-production` `wav` `producer-kit` `beat-making`
+
+---
+
+### Why this pack
+
+- **Every chromatic key covered** — no pitch-shifting needed
+- **7 distinct 808 characters** — Classic, Punchy, Long, Distorted, Vintage, Sub, Bright
+- **BPM-synced variants** — 70–160 BPM, drag-and-drop ready
+- **Production-grade quality** — 44.1kHz, 16-bit WAV, no noise floor
+- **100% free** — commercial use allowed, no credit required
+
 ---
 
 ## 📦 What's Inside
