@@ -1,6 +1,11 @@
 # 🔊 Free 808 Producer Kit
 
-> **94 hand-crafted 808 bass samples** — tuned to every chromatic key, built for trap, hip-hop, drill, and beyond.
+> **Part of the [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) sample pack ecosystem**
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/GareBear99?label=Sponsors&logo=github)](https://github.com/sponsors/GareBear99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/TizWildin)
+
+**94 hand-crafted 808 bass samples** — tuned to every chromatic key, built for trap, hip-hop, drill, and beyond.
 
 ---
 
@@ -130,4 +135,28 @@ Free to use in commercial and non-commercial productions. No credit required. Do
 
 ---
 
-*Generated with AAA Studio Tools · 44.1kHz · 16-bit · 2026*
+---
+
+## 🔗 More Free Sound Packs from TizWildin
+
+| Pack | Description |
+|------|-------------|
+| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115+ risers and 63 downlifters — noise, synth, drum, FX, cinematic |
+| [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit — 808s, cowbells, drums, MIDI, templates |
+| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, and FX |
+| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
+
+Explore the full plugin and resource list: [**Awesome Audio Plugins & Dev**](https://github.com/GareBear99/awesome-audio-plugins-dev)
+
+---
+
+## ☕ Support
+
+If these samples help your production, consider supporting:
+
+- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
+- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)
+
+---
+
+*Built by [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) · 44.1kHz · 16-bit · 2026*
