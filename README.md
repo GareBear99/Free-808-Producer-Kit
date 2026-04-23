@@ -1,3 +1,22 @@
+<!-- tizwildin-pricing:start -->
+## 💎 Free 808 Producer Kit — free, or **$1** to support the work
+
+This pack is **free forever** on GitHub:
+
+- [⬇️ Download the latest release](https://github.com/GareBear99/Free-808-Producer-Kit/releases/latest) (ZIP)
+- [🏛️ TizWildin Plugin & Pack Hub](https://github.com/GareBear99/TizWildinEntertainmentHUB) — full catalog of free plugins + sample packs
+
+If this pack earns a place in your sessions and you want to chip in **$1** to support the next release, pick any of these:
+
+- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
+- [Buy Me a Coffee](https://buymeacoffee.com/garebear99)
+- [Ko-fi](https://ko-fi.com/luciferai)
+
+(Paid Bandcamp / Ko-fi Shop editions coming soon at the **$1** tier for this pack. GitHub release stays free either way.)
+
+More free plugins from me: [FreeEQ8 (8-band EQ)](https://github.com/GareBear99/FreeEQ8) · [Awesome Audio Plugins Dev list](https://github.com/GareBear99/awesome-audio-plugins-dev).
+<!-- tizwildin-pricing:end -->
+
 > 🎛️ Part of the [TizWildin Plugin Ecosystem](https://garebear99.github.io/TizWildinEntertainmentHUB/) — 16 free audio plugins with a live update dashboard.
 >
 > [FreeEQ8](https://github.com/GareBear99/FreeEQ8) · [XyloCore](https://github.com/GareBear99/XyloCore) · [Instrudio](https://github.com/GareBear99/Instrudio) · [Therum](https://github.com/GareBear99/Therum_JUCE-Plugin) · [BassMaid](https://github.com/GareBear99/BassMaid) · [SpaceMaid](https://github.com/GareBear99/SpaceMaid) · [GlueMaid](https://github.com/GareBear99/GlueMaid) · [MixMaid](https://github.com/GareBear99/MixMaid) · [ChainMaid](https://github.com/GareBear99/ChainMaid) · [PaintMask](https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin) · [WURP](https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE) · [AETHER](https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer) · [WhisperGate](https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin) · [RiftWave](https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite) · [FreeSampler](https://github.com/GareBear99/FreeSampler_v0.3) · [VF-PlexLab](https://github.com/GareBear99/VF-PlexLab) · [PAP-Forge-Audio](https://github.com/GareBear99/PAP-Forge-Audio)
